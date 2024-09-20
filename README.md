@@ -17,5 +17,5 @@ Subqueries and nested queries for advanced data extraction.
 Revenue analysis using mathematical calculations.
 # Technologies Used
 Database: Pizza Sales Data
-Tools: SQL (MySQL/PostgreSQL)
+Tools: MYSQL Workbench
 Language: SQL
